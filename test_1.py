@@ -23,4 +23,6 @@ print(456)
 print(123, end=" ")
 print(456, end=" ")
 
+print(2 / 4)
+
 
