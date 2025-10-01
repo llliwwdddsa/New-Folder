@@ -18,7 +18,7 @@ import time
 # print(f"it was input a total of {count}")
 
 
-a = 'a' * 4
+a = 'a' 
 print(a)
 
 for i in range(101):
